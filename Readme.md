@@ -1,0 +1,3 @@
+# DRPC
+
+DRPC是Distribution-RPC简称，即分布式RPC框架，整体基于SpringBootStarter、Netty，分布式算法为Raft和NWP完成强一致性-与最终一致性切换
